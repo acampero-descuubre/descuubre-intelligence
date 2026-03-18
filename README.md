@@ -7,6 +7,10 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1.1-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+## 🌐 Demo en Vivo
+
+**🔗 [Ver Aplicación en Producción](https://acampero-descuubre.github.io/descuubre-intelligence/)**
+
 ---
 
 ## 📊 Descripción
